@@ -1,6 +1,6 @@
 This is a repository to help you easily run opensimulator for OSGrid persistently
 
-It uses the docker image for OSGrid opensimulator found at https://github.com/Murf/docker-osgrid
+It uses the docker image for OSGrid opensimulator found at https://hub.docker.com/r/murf66/docker-osgrid/
 
 All you need to do is clone this repo and run the following command:
 
