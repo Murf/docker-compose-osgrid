@@ -1,4 +1,5 @@
 This is a repository to help you easily run opensimulator for OSGrid persistently
+
 It uses the docker image for OSGrid opensimulator found at https://github.com/Murf/docker-osgrid
 
 All you need to do is clone this repo and run the following command:
@@ -44,3 +45,5 @@ Region (.....) #
  - 'quit' command to continue.
 
 
+For more help on docker and docker-compose see:
+https://www.docker.com/
