@@ -4,7 +4,7 @@ It uses the docker image for OSGrid opensimulator found at https://hub.docker.co
 
 All you need to do is clone this repo and run the following command:
 
-docker-compuse up -d
+docker-compose up -d
 
 For once-off first-time config, run the following command:
 
