@@ -3,7 +3,7 @@ version: "2"
 services:
   os-osgrid-1:
     container_name: os-osgrid-1
-    image: murf66/docker-osgrid
+    image: murf66/docker-opensim:latest 
     volumes:
      - ./OpenSim.ini:/opt/opensim/bin/OpenSim.ini
      - ./OpenSim.db:/opt/opensim/bin/OpenSim.db
