@@ -8,6 +8,8 @@ services:
      - ./OpenSim.ini:/opt/opensim/bin/OpenSim.ini
      - ./OpenSim.db:/opt/opensim/bin/OpenSim.db
      - ./Regions/:/opt/opensim/bin/Regions/
+     - ./FlotsamCache.ini:/opt/opensim/bin/config-include/FlotsamCache.ini
+     - ./GridCommon.ini:/opt/opensim/bin/config-include/GridCommon.ini
     ports:
       - "9000:9000"
       - "9000:9000/udp"
